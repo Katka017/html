@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+}
+body  { 
+    /* background-color: gray; */
+    margin-top: 20px;
+    margin-bottom: 60px;
+    background: url('drops.jpg') no-repeat;
+    background-size: cover;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    display: inline;
+}
+form { color: white;
+    margin-top: 100px;
+}
+
+
+#zdjecia {
+    margin-top: 50px;
+    margin-right: 50px;
+    
+}
+div p {
+    color: rgb(187, 187, 147);
+    margin-top: 55px;
+}
+nav {
+    margin-bottom: 50px;
+}
+
+#aparat {
+    color: rgb(170, 165, 165);
+}
