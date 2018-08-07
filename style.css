@@ -5,7 +5,7 @@ body  {
     /* background-color: gray; */
     margin-top: 20px;
     margin-bottom: 60px;
-    background: url('drops.jpg');
+    background: url('drops.jpg') repeat;
     background-size: cover;
     display: flex;
     /* justify-content: center; */
