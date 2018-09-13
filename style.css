@@ -18,10 +18,11 @@ form { color: white;
 
 
 #zdjecia {
-    margin-top: 50px;
-    margin-right: 50px;
-    max-width: 450px;
-    max-height: 450px;
+    
+    margin: 50px;
+    
+    max-width: 400px;
+    max-height: 400px;
     
 }
 div p {
